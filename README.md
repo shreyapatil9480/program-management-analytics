@@ -85,3 +85,8 @@ Contributions and improvements are welcome. This project is licensed under the M
 ## License
 
 This project is released under the [MIT License](LICENSE). You are free to use, modify and distribute it with attribution.
+
+## Target Roles
+
+This project is tailored for individuals seeking roles as Business Analysts, Program Managers, or Data Analysts. It demonstrates skills in data generation, exploration, and predictive modeling relevant to these positions.
+ free to use, modify and distribute it with attribution.
